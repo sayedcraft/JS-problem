@@ -15,3 +15,5 @@ const myFunction = () => {
     console.log('hello');
     console.log('hello');
 };
+
+myFunction();
